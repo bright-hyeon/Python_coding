@@ -1,2 +1,2 @@
 # Python_study
-machine learning & deeplearning using python
+machine learning & deep learning using python
